@@ -9,7 +9,7 @@
   <body>
 
     <div class="container mt-5">
-        <h1 class="text-center mb-5">Data Dosen</h1>
+        <h1 class="text-center mb-5">Tambah Data Dosen</h1>
         <a href="{{ route('soal.index') }}" class="btn btn-primary mb-3">Data Dosen</a>
         <div class="card">
             <div class="card-body">
